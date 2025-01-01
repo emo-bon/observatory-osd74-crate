@@ -60,30 +60,6 @@ source_mat_id error,ws,source_mat_id,27,EMOBON_OSD74_Wa_27,,source_mat_id should
 source_mat_id error,ws,source_mat_id,28,EMOBON_OSD74_Wa_28,,source_mat_id should match ^EMOBON_OSD74_Wa_211218_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,29,EMOBON_OSD74_Wa_29,,source_mat_id should match ^EMOBON_OSD74_Wa_211218_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,30,EMOBON_OSD74_Wa_30,,source_mat_id should match ^EMOBON_OSD74_Wa_211218_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-datatype mismatch,wm,diss_oxygen,21,13.01 ppm | 133.4%,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,True
-datatype mismatch,wm,diss_oxygen,22,13.01 ppm | 133.4%,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,True
-datatype mismatch,wm,diss_oxygen,23,13.01 ppm | 133.4%,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,True
-datatype mismatch,wm,diss_oxygen,24,13.01 ppm | 133.4%,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,True
-datatype mismatch,wm,diss_oxygen,25,13.01 ppm | 133.4%,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,True
-datatype mismatch,wm,diss_oxygen,26,13.01 ppm | 133.4%,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,True
-datatype mismatch,wm,diss_oxygen,27,13.01 ppm | 133.4%,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,True
-datatype mismatch,wm,diss_oxygen,28,13.01 ppm | 133.4%,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,True
-missing value,wm,sea_subsurf_temp,11,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_subsurf_temp,12,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_subsurf_temp,13,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_subsurf_temp,14,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_subsurf_temp,15,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_subsurf_temp,16,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_subsurf_temp,17,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_subsurf_temp,18,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_surf_temp,11,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_surf_temp,12,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_surf_temp,13,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_surf_temp,14,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_surf_temp,15,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_surf_temp,16,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_surf_temp,17,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
-missing value,wm,sea_surf_temp,18,,,,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,False
 datatype mismatch,wo,contact_orcid,1,0000-0001-9576-2398,https://orcid.org/0000-0001-9576-2398,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,True
 datatype mismatch,wo,loc_broad_ocean_mrgid,1,1902,http://marineregions.org/mrgid/1902,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,False
 datatype mismatch,wo,loc_loc_mrgid,1,4888,http://marineregions.org/mrgid/4888,,/github/workspace/logsheets/filtered/water_observatory.csv,XSDAnyURI,False

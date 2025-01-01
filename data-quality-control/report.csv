@@ -59,29 +59,5 @@ source_mat_id error,water,sampling,source_mat_id,27,EMOBON_OSD74_Wa_27,source_ma
 source_mat_id error,water,sampling,source_mat_id,28,EMOBON_OSD74_Wa_28,source_mat_id should match ^EMOBON_OSD74_Wa_211218_3um_4$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,29,EMOBON_OSD74_Wa_29,source_mat_id should match ^EMOBON_OSD74_Wa_211218_200um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
 source_mat_id error,water,sampling,source_mat_id,30,EMOBON_OSD74_Wa_30,source_mat_id should match ^EMOBON_OSD74_Wa_211218_3um_blank_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,mandatory
-datatype mismatch,water,measured,diss_oxygen,21,13.01 ppm | 133.4%,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,optional
-datatype mismatch,water,measured,diss_oxygen,22,13.01 ppm | 133.4%,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,optional
-datatype mismatch,water,measured,diss_oxygen,23,13.01 ppm | 133.4%,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,optional
-datatype mismatch,water,measured,diss_oxygen,24,13.01 ppm | 133.4%,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,optional
-datatype mismatch,water,measured,diss_oxygen,25,13.01 ppm | 133.4%,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,optional
-datatype mismatch,water,measured,diss_oxygen,26,13.01 ppm | 133.4%,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,optional
-datatype mismatch,water,measured,diss_oxygen,27,13.01 ppm | 133.4%,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,optional
-datatype mismatch,water,measured,diss_oxygen,28,13.01 ppm | 133.4%,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,optional
-missing value,water,measured,sea_subsurf_temp,11,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_subsurf_temp,12,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_subsurf_temp,13,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_subsurf_temp,14,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_subsurf_temp,15,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_subsurf_temp,16,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_subsurf_temp,17,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_subsurf_temp,18,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_surf_temp,11,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_surf_temp,12,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_surf_temp,13,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_surf_temp,14,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_surf_temp,15,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_surf_temp,16,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_surf_temp,17,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
-missing value,water,measured,sea_surf_temp,18,<empty>,\,/github/workspace/logsheets/filtered/water_measured.csv,XSDFloat,mandatory
 datatype mismatch,water,sampling,failure,29,Τ,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
 datatype mismatch,water,sampling,failure,30,Τ,\,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,mandatory
