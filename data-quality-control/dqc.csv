@@ -1,35 +1,5 @@
 diagnosis,table,column,row,value,repair,extended_diagnosis,file_path,data_type,nullable
 organization edmoid error,wo,organization_edmoid,1,1626,https://edmo.seadatanet.org/report/1626,organization edmoid should be a list of URIs,/github/workspace/logsheets/filtered/water_observatory.csv,EMOBONList,False
-orcid error,ws,sampl_person,1,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,2,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,3,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,4,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,5,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,6,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,7,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,8,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,9,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,10,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,11,Eva Lopes; Si,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,12,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,13,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,14,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,15,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,16,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,17,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,18,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,19,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,20,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,21,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,22,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,23,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,24,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,25,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,26,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,27,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,28,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,29,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
-orcid error,ws,sampl_person,30,Catarina Magalhães; Simão Horta,,orcid 0000-0001-9576-2398 corresponds to person name Catarina Magalhães,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,1,EMOBON_OSD74_Wa_1,,source_mat_id should match ^EMOBON_OSD74_Wa_210831_200um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,2,EMOBON_OSD74_Wa_2,,source_mat_id should match ^EMOBON_OSD74_Wa_210831_3um_1$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
 source_mat_id error,ws,source_mat_id,3,EMOBON_OSD74_Wa_3,,source_mat_id should match ^EMOBON_OSD74_Wa_210831_200um_2$,/github/workspace/logsheets/filtered/water_sampling.csv,XSDString,False
@@ -192,7 +162,6 @@ datatype mismatch,ws,sampl_person_orcid,7,0000-0001-9576-2398,https://orcid.org/
 datatype mismatch,ws,sampl_person_orcid,8,0000-0001-9576-2398,https://orcid.org/0000-0001-9576-2398,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,sampl_person_orcid,9,0000-0001-9576-2398,https://orcid.org/0000-0001-9576-2398,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,sampl_person_orcid,10,0000-0001-9576-2398,https://orcid.org/0000-0001-9576-2398,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
-datatype mismatch,ws,sampl_person_orcid,11,0000-0001-9576-2398,https://orcid.org/0000-0001-9576-2398,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,sampl_person_orcid,12,0000-0001-9576-2398,https://orcid.org/0000-0001-9576-2398,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,sampl_person_orcid,13,0000-0001-9576-2398,https://orcid.org/0000-0001-9576-2398,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
 datatype mismatch,ws,sampl_person_orcid,14,0000-0001-9576-2398,https://orcid.org/0000-0001-9576-2398,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDAnyURI,True
@@ -309,8 +278,8 @@ datatype mismatch,ws,failure,21,F,false,,/github/workspace/logsheets/filtered/wa
 datatype mismatch,ws,failure,22,F,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,failure,23,F,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,failure,24,F,false,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
-datatype mismatch,ws,failure,29,Τ,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
-datatype mismatch,ws,failure,30,Τ,,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+datatype mismatch,ws,failure,29,T,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
+datatype mismatch,ws,failure,30,T,true,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDBoolean,False
 datatype mismatch,ws,samp_store_date,1,2021-08-31 00:00:00,2021-08-31,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,samp_store_date,2,2021-08-31 00:00:00,2021-08-31,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
 datatype mismatch,ws,samp_store_date,3,2021-08-31 00:00:00,2021-08-31,,/github/workspace/logsheets/filtered/water_sampling.csv,XSDDate,False
