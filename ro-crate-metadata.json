@@ -18,14 +18,11 @@
                 "@type": "ContactPoint",
                 "email": "emobon@embrc.eu"
             },
-            "datePublished": "2025-04-17T09:59:53+00:00",
+            "datePublished": "2025-04-28T12:36:27+00:00",
             "description": "This RO-Crate/GitHub repository contains the EMO BON sampling event logsheets from the observatory OSD74",
             "hasPart": [
                 {
                     "@id": "README.md"
-                },
-                {
-                    "@id": "all-triples.ttl"
                 },
                 {
                     "@id": "data-quality-control/dqc.csv"
@@ -35,6 +32,9 @@
                 },
                 {
                     "@id": "data-quality-control/report.csv"
+                },
+                {
+                    "@id": "all-triples.ttl"
                 },
                 {
                     "@id": "data-quality-control/"
@@ -129,11 +129,6 @@
             "name": "<name>"
         },
         {
-            "@id": "all-triples.ttl", 
-            "@type": "File",
-            "encodingFormat": "text/turtle"
-        },
-        {
             "@id": "README.md",
             "@label": "./README.md",
             "@type": "File",
@@ -156,6 +151,12 @@
             "@label": "./data-quality-control/report.csv",
             "@type": "File",
             "encodingFormat": "text/csv"
+        },
+        {
+            "@id": "all-triples.ttl",
+            "@label": "./all-triples.ttl",
+            "@type": "File",
+            "encodingFormat": "text/turtle"
         },
         {
             "@id": "data-quality-control/",
