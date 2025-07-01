@@ -58,5 +58,5 @@ ERROR:pipeline.rules:orcid api failure for https://orcid.org/0000-0001-6928-5584
 ERROR:pipeline.rules:orcid api failure for https://orcid.org/0000-0001-6928-5584
 ERROR:pipeline.rules:orcid api failure for https://orcid.org/0000-0001-6928-5584
 ERROR:pipeline.rules:orcid api failure for https://orcid.org/0000-0001-6928-5584
-WARNING:py_data_rules.rule_factory:excess columns in table wo: {'data_contact_email', 'data_owner', 'data_owner_edmoid'}
+WARNING:py_data_rules.rule_factory:excess columns in table wo: {'data_owner', 'data_contact_email', 'data_owner_edmoid'}
 WARNING:py_data_rules.rule_factory:excess columns in table ws: {'seq_batch'}
